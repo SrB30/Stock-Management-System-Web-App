@@ -1,0 +1,46 @@
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementWebApp\SAS_StockManagementWebApp\bin\SAS_StockManagementSystemWebApp.dll.config
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementWebApp\SAS_StockManagementWebApp\bin\SAS_StockManagementSystemWebApp.dll
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementWebApp\SAS_StockManagementWebApp\bin\SAS_StockManagementSystemWebApp.pdb
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementWebApp\SAS_StockManagementWebApp\obj\Debug\SAS_StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementWebApp\SAS_StockManagementWebApp\obj\Debug\SAS_StockManagementSystemWebApp.dll
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementWebApp\SAS_StockManagementWebApp\obj\Debug\SAS_StockManagementSystemWebApp.pdb
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll.config
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.pdb
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.dll
+H:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.pdb
+F:\BitmProjectOne\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll.config
+F:\BitmProjectOne\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll
+F:\BitmProjectOne\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.pdb
+F:\BitmProjectOne\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\BitmProjectOne\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.dll
+F:\BitmProjectOne\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.pdb
+H:\code\Dot Net Visual C#\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll.config
+H:\code\Dot Net Visual C#\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll
+H:\code\Dot Net Visual C#\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.pdb
+H:\code\Dot Net Visual C#\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.dll
+H:\code\Dot Net Visual C#\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.pdb
+F:\BitmProjectOne\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll.config
+F:\BitmProjectOne\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll
+F:\BitmProjectOne\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.pdb
+F:\BitmProjectOne\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\BitmProjectOne\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.dll
+F:\BitmProjectOne\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.pdb
+H:\code\Dot Net Visual C#\New folder (2)\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll.config
+H:\code\Dot Net Visual C#\New folder (2)\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll
+H:\code\Dot Net Visual C#\New folder (2)\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.pdb
+H:\code\Dot Net Visual C#\New folder (2)\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.dll
+H:\code\Dot Net Visual C#\New folder (2)\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.pdb
+G:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll.config
+G:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll
+G:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.pdb
+G:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+G:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.dll
+G:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.pdb
+F:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll.config
+F:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.dll
+F:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\bin\SAS_StockManagementSystemWebApp.pdb
+F:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.dll
+F:\code\Dot Net Visual C#\Project BITM\SAS_StockManagementSystemWebApp\SAS_StockManagementSystemWebApp\obj\Debug\SAS_StockManagementSystemWebApp.pdb
